@@ -11,7 +11,6 @@ Country Info API is a RESTful API built with Express and TypeScript. It integrat
   - [Get Available Countries](#get-available-countries)
   - [Get Country Information](#get-country-information)
   - [Add Holidays to Calendar](#add-holidays-to-calendar)
-- [Error Handling](#error-handling)
 - [Security](#security)
 - [Testing](#testing)
 - [License](#license)
